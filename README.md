@@ -49,13 +49,13 @@ This project demonstrates a simple neural network to classify iris flowers into 
 iris-classification/
 ├── src/ # Source code
 │ ├── data_loading.py # Data loading and preprocessing
-│ ├── model.py # Model definition
-│ ├── training.py # Training logic
-│ ├── evaluation.py # Evaluation metrics
-├── notebooks/ # Jupyter notebooks (exploration)
-├── configs/ # Configuration files (YAML)
-├── README.md # Project overview
-├── requirements.txt # Dependencies
-└── Iris_flower_classification.py # Main entry point
+│ ├── model.py  # Model definition
+│ ├── training.py  # Training logic
+│ ├── evaluation.py  # Evaluation metrics
+├── notebooks/  # Jupyter notebooks (exploration)
+├── configs/  # Configuration files (YAML)
+├── README.md  # Project overview
+├── requirements.txt  # Dependencies
+└── Iris_flower_classification.py  # Main entry point
 
 text
