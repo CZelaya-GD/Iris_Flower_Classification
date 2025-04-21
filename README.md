@@ -58,4 +58,12 @@ iris-classification/
 ├── requirements.txt  # Dependencies
 └── Iris_flower_classification.py  # Main entry point
 
-text
+
+## 📊 Results
+
+The model achieves >90% accuracy on the test set.  See the generated plots for loss and accuracy curves.
+
+## 📝 Notes
+
+- Experiment with different hyperparameters in the `src/training.py` file.
+- The dataset `iris.csv` should be in the same directory as `Iris_flower_classification.py`.
