@@ -44,20 +44,6 @@ This project demonstrates a simple neural network to classify iris flowers into 
 *   TensorFlow/Keras
 *   Matplotlib
 
-## 📂 File Structure
-
-iris-classification/
-├── src/ # Source code
-│ ├── data_loading.py # Data loading and preprocessing
-│ ├── model.py  # Model definition
-│ ├── training.py  # Training logic
-│ ├── evaluation.py  # Evaluation metrics
-├── notebooks/  # Jupyter notebooks (exploration)
-├── configs/  # Configuration files (YAML)
-├── README.md  # Project overview
-├── requirements.txt  # Dependencies
-└── Iris_flower_classification.py  # Main entry point
-
 
 ## 📊 Results
 
